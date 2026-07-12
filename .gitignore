@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.csv
+*.png
+.classpath
+.project
+.settings/
+.idea/
+.DS_Store
