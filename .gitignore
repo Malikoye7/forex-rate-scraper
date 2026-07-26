@@ -8,3 +8,7 @@ target/
 .settings/
 .idea/
 .DS_Store
+
+# coursework artefacts - kept locally, not published
+*.pdf
+*.docx
